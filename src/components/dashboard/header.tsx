@@ -11,10 +11,10 @@ export const DashboardHeader: React.FC = () => {
         <div className="flex items-center space-x-4">
           <div className="flex items-center space-x-2">
             <div className="w-8 h-8 rounded-lg bg-gradient-primary flex items-center justify-center">
-              <span className="text-primary-foreground font-bold text-sm">SO</span>
+              <span className="text-primary-foreground font-bold text-sm">CF</span>
             </div>
             <div>
-              <h1 className="text-xl font-bold gradient-text">SmartOps</h1>
+              <h1 className="text-xl font-bold gradient-text">CloudForge</h1>
               <Badge variant="outline" className="text-xs -mt-1">
                 v2.0
               </Badge>

@@ -15,7 +15,7 @@ const Index = () => {
           <div className="absolute inset-0 bg-gradient-hero opacity-10 blur-3xl" />
           <div className="relative">
             <h1 className="text-4xl md:text-6xl font-bold mb-4 gradient-text animate-fade-in">
-              SmartOps Dashboard
+              CloudForge Dashboard
             </h1>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
               Unified automation platform combining 10 powerful modules for comprehensive 
